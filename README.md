@@ -1,2 +1,3 @@
-# Ola Mundo
- Repositorio Curso em Video
+# Olá, Mundo!
+ Repositório utilizado no Curso em Video
+ Criado durante aula ao vivo
